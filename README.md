@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/MatiasC5/Interactive-rating)
 - Live Site URL: [Add live site URL here](https://interactive-rating1-solution.netlify.app/)
 
 ## My process
